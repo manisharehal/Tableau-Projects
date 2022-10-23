@@ -4,7 +4,7 @@ This repository contains the Tableau Projects that showcase my skills to create 
 
 ## 📚 Table of Contents
 - [Maven Unicorn Challenge]()
-- [Covid-19 and the Impact on Malaysia Stock Market](#Covid-19 and the Impact on Malaysia Stock Market)
+- [Covid-19 and Impact on Malaysia stock market](#Covid-19 and Impact on Malaysia stock market)
 
 
 # 🦄 Maven Unicorn Challenge
@@ -33,7 +33,7 @@ Conducted simple data wrangling and data cleaning:
 - Exclude rows with "Unknown" `Funding` values
 - Explode `Select Investors` column into individual rows for categorical analysis
 
-📍 Jupyter script: [Notebook](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
+📍 Jupyter script: [Notebook]
 
 📍 Clean Data: [unicorn_companies_clean.csv](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/unicorn_companies_clean.csv)
 
@@ -41,8 +41,28 @@ Conducted simple data wrangling and data cleaning:
 
 Produced a 1-pager dashboard using Tableau.
 
-Tableau: [Link]
+Tableau: 
 
 ![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
+
+
+# Covid-19 and Impact on Malaysia stock market
+
+### Business Task
+Analyse Covid-19 data and its impact on Malaysia stock market, specifically the KLCI Index Price.
+
+### Data Set
+- Covid-19 data from 1 Jan 2020 to 5 Jul 2021 from [Our World in Data](https://ourworldindata.org/covid-deaths).
+- Bursa Malaysia KLSE Index Prices from 1 Jan 2020 to 2 Jul 2021 from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EKLSE?p=%5EKLSE).
+
+### Tools
+- Microsoft SQL Server 2019 for data analysis - View [SQL scripts]
+- Tableau for data visualisation - View 
+### Posted in
+- [Medium]
+
+### Dashboard
+
+<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://user-images.githubusercontent.com/81607668/168976440-2a4ceb9f-2459-4b44-91eb-c31e6c526393.png"></kbd>
 
 
