@@ -4,7 +4,7 @@ This repository contains the Tableau Projects that showcase my skills to create 
 
 ## 📚 Table of Contents
 - [Maven Unicorn Challenge](https://github.com/manisharehal/Tableau-Projects/blob/main/README.md#-maven-unicorn-challenge)
-- [Covid-19 and Impact on Malaysia stock market]([#Covid-19 and Impact on Malaysia stock market](https://github.com/manisharehal/Tableau-Projects/blob/main/README.md#covid-19-and-impact-on-malaysia-stock-market))
+- [Covid-19 and Impact on Malaysia stock market](https://github.com/manisharehal/Tableau-Projects/blob/main/README.md#covid-19-and-impact-on-malaysia-stock-market)
 
 
 # 🦄 Maven Unicorn Challenge
