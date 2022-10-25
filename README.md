@@ -33,7 +33,7 @@ Conducted simple data wrangling and data cleaning:
 - Exclude rows with "Unknown" `Funding` values
 - Explode `Select Investors` column into individual rows for categorical analysis
 
-📍 Jupyter script: [Notebook]
+📍 Jupyter script: [Notebook](https://github.com/manisharehal/Tableau-Projects/blob/main/Maven%20Unicorn%20Challenge/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
 
 📍 Clean Data: [unicorn_companies_clean.csv](https://github.com/katiehuangx/Maven-Unicorn-Challenge/blob/main/unicorn_companies_clean.csv)
 
