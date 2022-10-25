@@ -32,7 +32,7 @@ Conducted simple data wrangling and data cleaning:
 
 Produced a 1-pager dashboard using Tableau.
 
-Tableau: [Link]
+Tableau: [Link](https://public.tableau.com/authoring/MavenUnicorn_16667200845270/Unicorns#1)
 
 ![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
 
